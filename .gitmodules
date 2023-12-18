@@ -1,0 +1,3 @@
+[submodule "airflow/dags/Crawler_DLVN"]
+	path = airflow/dags/Crawler_DLVN
+	url = https://github.com/QuanBKIT1/Crawler_DLVN
